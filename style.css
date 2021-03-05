@@ -202,20 +202,13 @@ a, a:hover {
   background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
   box-shadow: 0px 4px 30px rgba(120, 64, 190, 0.6);
 }
-.profile-card-social__item.behance {
-  background: linear-gradient(45deg, #1769ff, #213fca);
-  box-shadow: 0px 4px 30px rgba(27, 86, 231, 0.7);
-}
+
 .profile-card-social__item.github {
   background: linear-gradient(45deg, #333333, #626b73);
   box-shadow: 0px 4px 30px rgba(63, 65, 67, 0.6);
 }
-.profile-card-social__item.codepen {
-  background: linear-gradient(45deg, #324e63, #414447);
-  box-shadow: 0px 4px 30px rgba(55, 75, 90, 0.6);
-}
 .profile-card-social__item.link {
-  background: linear-gradient(45deg, #d5135a, #f05924);
+  background: linear-gradient(45deg, #0077ee, #470ac3);
   box-shadow: 0px 4px 30px rgba(223, 45, 70, 0.6);
 }
 .profile-card-social .icon-font {
