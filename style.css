@@ -207,7 +207,7 @@ a, a:hover {
   background: linear-gradient(45deg, #333333, #626b73);
   box-shadow: 0px 4px 30px rgba(63, 65, 67, 0.6);
 }
-.profile-card-social__item.link {
+.profile-card-social__item.linked {
   background: linear-gradient(45deg, #0077ee, #470ac3);
   box-shadow: 0px 4px 30px rgba(22, 45, 70, 0.6);
 }
