@@ -34,7 +34,7 @@ a, a:hover {
   padding: 50px 20px;
   padding-top: 100px;
   display: flex;
-  background-image: url("https://res.cloudinary.com/micro0x00/image/upload/v1614481907/wallpaperflare.com_wallpaper_2_jiivvw.jpg");
+  background-image:url("img/background.jpg");
   display: flex;
   background-size: cover;
 }
